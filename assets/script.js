@@ -33,3 +33,10 @@ function init(){
     renderCities();
     // console.log(cities);
 }
+
+//Function StoreCities()
+function storeCities(){
+    // Stringify and set "cities" key in localStorage to cities array
+   localStorage.setItem("cities", JSON.stringify(cities));
+   console.log(localStorage);
+ }
