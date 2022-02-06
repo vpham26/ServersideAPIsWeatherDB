@@ -92,8 +92,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Mock-Up
 *** 
 
-![Screenshot (162)](https://user-images.githubusercontent.com/78709516/152705474-e9c0a084-04c5-49c8-a96e-ff53be1ebf12.png)
-
+![Screenshot (163)](https://user-images.githubusercontent.com/78709516/152705834-a2e66e4a-f0c3-452f-9965-81bc849c3c13.png)
 
 ## Grading Requirements
 ***
