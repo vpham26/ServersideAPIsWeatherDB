@@ -91,8 +91,11 @@ THEN the password is either displayed in an alert or written to the page
 ## Mock-Up
 *** 
 
+![Screenshot (162)](https://user-images.githubusercontent.com/78709516/152705474-e9c0a084-04c5-49c8-a96e-ff53be1ebf12.png)
+
 
 ## Grading Requirements
+***
 
 This challenge is graded based on the following criteria:
 
